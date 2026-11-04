@@ -1,0 +1,6 @@
+---
+Checks: 'clang-diagnostic-*,clang-analyzer-*,cppcoreguidelines-*,modernize-*,bugprone-*'
+WarningsAsErrors: 'clang-diagnostic-*,clang-analyzer-*,cppcoreguidelines-*,modernize-*,bugprone-*'
+HeaderFilterRegex: '.*'
+FormatStyle: 'file'
+...
